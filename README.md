@@ -1,4 +1,4 @@
-# how-to-do-it
+# 填坑小助手
 
 此项目专用于整理编程过程中遇到的问题和经过筛选的最优解决方法的连接。
 欢迎各位同行在这里分享自己工作过程中遇到和填过的坑，可直接发 Pull Request 或创建 [Issue](https://github.com/xiaohulu/how-to-do-it/issues)。
