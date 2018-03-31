@@ -37,6 +37,8 @@
 
 * [前端组件库集锦](http://www.cnblogs.com/liuzhibin/p/5944821.html) - [web_liu](https://www.cnblogs.com/liuzhibin)
 * [UI 组件库集锦](https://doufuding.com/articles/77) - [xiaohulu](https://github.com/xiaohulu)
+* [创造狮导航](http://chuangzaoshi.com/)
+* [设计师网址导航](http://webstack.cc/cn/index.html)
 
 ## 关于
 
