@@ -35,7 +35,10 @@
 
 ### Maven
 
-* [Spring boot 中使用 Maven 引用本地 jar 包](https://blog.csdn.net/jhq2904982765/article/details/77686324)
+#### Spring boot 中如何使用 Maven 引用本地 jar 包
+
+* [Spring boot 中如何引入本地 jar 包，并通过 maven 把项目成功打包成 jar 包部署](https://blog.csdn.net/csdn2193714269/article/details/78391274?locationNum=3&fps=1) - [艾特老司机](https://blog.csdn.net/csdn2193714269)
+* [Spring boot Maven 打包引入本地的jar包 ](https://blog.csdn.net/jhq2904982765/article/details/77686324) - [黑白月](https://blog.csdn.net/jhq2904982765)
 
 
 ### 前端
