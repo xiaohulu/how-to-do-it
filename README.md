@@ -33,6 +33,11 @@
 * [Tomcat 在 Linux 服务器上启动缓慢的测试与解决](https://blog.csdn.net/wangfei0904306/article/details/74019415) - [wangfei0904306](https://blog.csdn.net/wangfei0904306)
 * [Spring boot 中 tomcat 启动过慢的问题分析](https://www.jianshu.com/p/30aa8e43a396) - [mr_franklin](https://www.jianshu.com/u/066b995ff488)
 
+### Maven
+
+* [Spring boot 中使用 Maven 引用本地 jar 包](https://blog.csdn.net/jhq2904982765/article/details/77686324)
+
+
 ### 前端
 
 * [前端组件库集锦](http://www.cnblogs.com/liuzhibin/p/5944821.html) - [web_liu](https://www.cnblogs.com/liuzhibin)
