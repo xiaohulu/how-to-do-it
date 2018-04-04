@@ -40,6 +40,20 @@
 * [Spring boot 中如何引入本地 jar 包，并通过 maven 把项目成功打包成 jar 包部署](https://blog.csdn.net/csdn2193714269/article/details/78391274?locationNum=3&fps=1) - [艾特老司机](https://blog.csdn.net/csdn2193714269)
 * [Spring boot Maven 打包引入本地的jar包 ](https://blog.csdn.net/jhq2904982765/article/details/77686324) - [黑白月](https://blog.csdn.net/jhq2904982765)
 
+### Spring boot
+
+#### Spring boot 如何扫描 jar 中的 bean
+
+* [springboot @ComponentScan 注解不支持扫描jar包中组件解决办法](http://bf1977.iteye.com/blog/2333033) - [bf1977](http://bf1977.iteye.com/)
+* [Springboot中@ComponentScan 注解](https://blog.csdn.net/onedaycbfly/article/details/79082730) - [bobostyle7335](https://blog.csdn.net/onedaycbfly)
+* [SpringBoot @ComponentScan 作用](https://blog.csdn.net/u012834750/article/details/65942092) -[淡淡的倔强](https://blog.csdn.net/u012834750)
+
+### Spring boot 如何扫描 jar 中的 Jpa 实体
+
+* [Spring Boot实战：数据库操作](https://www.cnblogs.com/paddix/p/8178943.html) - [liuxiaopeng](https://www.cnblogs.com/paddix/p/8178943.html)
+* [Difference between @EntityScan and @ComponentScan](https://stackoverflow.com/questions/38896414/difference-between-entityscan-and-componentscan)
+
+
 
 ### 前端
 
