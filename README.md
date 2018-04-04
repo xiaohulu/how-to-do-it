@@ -51,7 +51,7 @@
 #### Spring boot 如何扫描 jar 中的 Jpa 实体
 
 * [Spring Boot实战：数据库操作](https://www.cnblogs.com/paddix/p/8178943.html) - [liuxiaopeng](https://www.cnblogs.com/paddix/p/8178943.html)
-* [Difference between @EntityScan and @ComponentScan](https://stackoverflow.com/questions/38896414/difference-between-entityscan-and-componentscan)
+* [Difference between @EntityScan and @ComponentScan](https://stackoverflow.com/questions/38896414/difference-between-entityscan-and-componentscan) - [stackoverflow](https://stackoverflow.com)
 
 
 
