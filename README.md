@@ -46,7 +46,7 @@
 
 * [springboot @ComponentScan 注解不支持扫描jar包中组件解决办法](http://bf1977.iteye.com/blog/2333033) - [bf1977](http://bf1977.iteye.com/)
 * [Springboot中@ComponentScan 注解](https://blog.csdn.net/onedaycbfly/article/details/79082730) - [bobostyle7335](https://blog.csdn.net/onedaycbfly)
-* [SpringBoot @ComponentScan 作用](https://blog.csdn.net/u012834750/article/details/65942092) -[淡淡的倔强](https://blog.csdn.net/u012834750)
+* [SpringBoot @ComponentScan 作用](https://blog.csdn.net/u012834750/article/details/65942092) - [淡淡的倔强](https://blog.csdn.net/u012834750)
 
 #### Spring boot 如何扫描 jar 中的 Jpa 实体
 
