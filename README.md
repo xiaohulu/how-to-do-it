@@ -48,7 +48,7 @@
 * [Springboot中@ComponentScan 注解](https://blog.csdn.net/onedaycbfly/article/details/79082730) - [bobostyle7335](https://blog.csdn.net/onedaycbfly)
 * [SpringBoot @ComponentScan 作用](https://blog.csdn.net/u012834750/article/details/65942092) -[淡淡的倔强](https://blog.csdn.net/u012834750)
 
-### Spring boot 如何扫描 jar 中的 Jpa 实体
+#### Spring boot 如何扫描 jar 中的 Jpa 实体
 
 * [Spring Boot实战：数据库操作](https://www.cnblogs.com/paddix/p/8178943.html) - [liuxiaopeng](https://www.cnblogs.com/paddix/p/8178943.html)
 * [Difference between @EntityScan and @ComponentScan](https://stackoverflow.com/questions/38896414/difference-between-entityscan-and-componentscan)
