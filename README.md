@@ -67,6 +67,15 @@
 * [创造狮导航](http://chuangzaoshi.com/)
 * [设计师网址导航](http://webstack.cc/cn/index.html)
 
+### GIT
+
+#### 如何配置 git 全局和项目级的用户信息
+
+* [每个项目单独配置 git 用户](https://www.cnblogs.com/wangdaijun/p/5154468.html) - [王代军的博客](http://www.cnblogs.com/wangdaijun/)
+* [Git全局配置和单个仓库的用户名邮箱配置](https://blog.csdn.net/luohai859/article/details/50679859) - [luohai859](https://blog.csdn.net/luohai859)
+
+
+
 ## 关于
 
 本页面来自[豆腐丁](https://doufuding.com)网站的[程序员填坑小助手](https://doufuding.com/articles/76)
