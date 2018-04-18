@@ -54,7 +54,11 @@
 * [Spring Boot实战：数据库操作](https://www.cnblogs.com/paddix/p/8178943.html) - [liuxiaopeng](https://www.cnblogs.com/paddix/p/8178943.html)
 * [Difference between @EntityScan and @ComponentScan](https://stackoverflow.com/questions/38896414/difference-between-entityscan-and-componentscan) - [stackoverflow](https://stackoverflow.com)
 
+### TypeScript
 
+#### 如何在 TypeScript 中定义 JSON 对象
+
+* [typescript中使用字典Dictionary](https://blog.csdn.net/bingheliefeng/article/details/72778696) - [冰河烈风](https://blog.csdn.net/bingheliefeng)
 
 ### 前端
 
