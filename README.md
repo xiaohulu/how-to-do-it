@@ -75,6 +75,12 @@
 * [Git全局配置和单个仓库的用户名邮箱配置](https://blog.csdn.net/luohai859/article/details/50679859) - [luohai859](https://blog.csdn.net/luohai859)
 
 
+### Oracle
+
+#### Java 如何调用 Oracle 的存储过程和函数
+
+* [java下实现调用oracle的存储过程和函数](https://www.cnblogs.com/kuangwong/p/6263974.html) - [易小川](http://www.cnblogs.com/kuangwong/)
+
 
 ## 关于
 
